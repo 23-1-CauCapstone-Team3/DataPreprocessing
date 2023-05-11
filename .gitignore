@@ -4,3 +4,5 @@ original_data
 bus_station.html
 bus_station_notin.html
 .env
+*.zip
+*.txt
