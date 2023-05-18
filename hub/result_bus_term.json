@@ -1,0 +1,1241 @@
+[
+ {
+   "route_id": 100000020,
+   "route_name": "청와대A01(자율주행)",
+   "day": 15,
+   "sat": null,
+   "holiday": null
+ },
+ {
+   "route_id": 100100014,
+   "route_name": "109",
+   "day": 14,
+   "sat": 14,
+   "holiday": 16
+ },
+ {
+   "route_id": 100100017,
+   "route_name": "120",
+   "day": 6,
+   "sat": 10,
+   "holiday": 10
+ },
+ {
+   "route_id": 100100046,
+   "route_name": "270",
+   "day": 10,
+   "sat": 11,
+   "holiday": 12
+ },
+ {
+   "route_id": 100100047,
+   "route_name": "271",
+   "day": 6,
+   "sat": 10,
+   "holiday": 10
+ },
+ {
+   "route_id": 100100082,
+   "route_name": "507",
+   "day": 9,
+   "sat": 12,
+   "holiday": 15
+ },
+ {
+   "route_id": 100100086,
+   "route_name": "601",
+   "day": 12,
+   "sat": 13,
+   "holiday": 14
+ },
+ {
+   "route_id": 100100087,
+   "route_name": "602",
+   "day": 8,
+   "sat": 9,
+   "holiday": 11
+ },
+ {
+   "route_id": 100100088,
+   "route_name": "603",
+   "day": 10,
+   "sat": 13,
+   "holiday": 14
+ },
+ {
+   "route_id": 100100103,
+   "route_name": "701",
+   "day": 11,
+   "sat": 13,
+   "holiday": 15
+ },
+ {
+   "route_id": 100100116,
+   "route_name": "742",
+   "day": 11,
+   "sat": 12,
+   "holiday": 13
+ },
+ {
+   "route_id": 100100132,
+   "route_name": "1111",
+   "day": 8,
+   "sat": 8,
+   "holiday": 8
+ },
+ {
+   "route_id": 100100144,
+   "route_name": "1128",
+   "day": 12,
+   "sat": 12,
+   "holiday": 12
+ },
+ {
+   "route_id": 100100202,
+   "route_name": "2227",
+   "day": 11,
+   "sat": 12,
+   "holiday": 14
+ },
+ {
+   "route_id": 100100216,
+   "route_name": "3217",
+   "day": 9,
+   "sat": 11,
+   "holiday": 12
+ },
+ {
+   "route_id": 100100220,
+   "route_name": "3314",
+   "day": 10,
+   "sat": 12,
+   "holiday": 15
+ },
+ {
+   "route_id": 100100225,
+   "route_name": "3413",
+   "day": 9,
+   "sat": 11,
+   "holiday": 13
+ },
+ {
+   "route_id": 100100229,
+   "route_name": "3417",
+   "day": 7,
+   "sat": 10,
+   "holiday": 10
+ },
+ {
+   "route_id": 100100232,
+   "route_name": "3422",
+   "day": 16,
+   "sat": 18,
+   "holiday": 22
+ },
+ {
+   "route_id": 100100246,
+   "route_name": "4432",
+   "day": 9,
+   "sat": 11,
+   "holiday": 11
+ },
+ {
+   "route_id": 100100250,
+   "route_name": "5511",
+   "day": 7,
+   "sat": 11,
+   "holiday": 13
+ },
+ {
+   "route_id": 100100263,
+   "route_name": "5528",
+   "day": 17,
+   "sat": 20,
+   "holiday": 24
+ },
+ {
+   "route_id": 100100273,
+   "route_name": "5616",
+   "day": 16,
+   "sat": 17,
+   "holiday": 20
+ },
+ {
+   "route_id": 100100302,
+   "route_name": "6624",
+   "day": 9,
+   "sat": 10,
+   "holiday": 11
+ },
+ {
+   "route_id": 100100306,
+   "route_name": "6629",
+   "day": 11,
+   "sat": 13,
+   "holiday": 14
+ },
+ {
+   "route_id": 100100307,
+   "route_name": "6630",
+   "day": 20,
+   "sat": 25,
+   "holiday": 28
+ },
+ {
+   "route_id": 100100318,
+   "route_name": "6645",
+   "day": 14,
+   "sat": 16,
+   "holiday": 17
+ },
+ {
+   "route_id": 100100346,
+   "route_name": "7612",
+   "day": 10,
+   "sat": 11,
+   "holiday": 14
+ },
+ {
+   "route_id": 100100363,
+   "route_name": "7737",
+   "day": 10,
+   "sat": 10,
+   "holiday": 10
+ },
+ {
+   "route_id": 100100373,
+   "route_name": "6101",
+   "day": 40,
+   "sat": 40,
+   "holiday": 40
+ },
+ {
+   "route_id": 100100412,
+   "route_name": "6001",
+   "day": 18,
+   "sat": 18,
+   "holiday": 18
+ },
+ {
+   "route_id": 100100413,
+   "route_name": "6002",
+   "day": 18,
+   "sat": 18,
+   "holiday": 18
+ },
+ {
+   "route_id": 100100414,
+   "route_name": "6003",
+   "day": 25,
+   "sat": 25,
+   "holiday": 25
+ },
+ {
+   "route_id": 100100415,
+   "route_name": "6004",
+   "day": 35,
+   "sat": 35,
+   "holiday": 35
+ },
+ {
+   "route_id": 100100417,
+   "route_name": "6008",
+   "day": 70,
+   "sat": 70,
+   "holiday": 70
+ },
+ {
+   "route_id": 100100418,
+   "route_name": "6011",
+   "day": 35,
+   "sat": 35,
+   "holiday": 35
+ },
+ {
+   "route_id": 100100419,
+   "route_name": "6012",
+   "day": 70,
+   "sat": 70,
+   "holiday": 70
+ },
+ {
+   "route_id": 100100420,
+   "route_name": "6013",
+   "day": 30,
+   "sat": 30,
+   "holiday": 30
+ },
+ {
+   "route_id": 100100421,
+   "route_name": "6014",
+   "day": 45,
+   "sat": 45,
+   "holiday": 45
+ },
+ {
+   "route_id": 100100422,
+   "route_name": "6015",
+   "day": 16,
+   "sat": 16,
+   "holiday": 16
+ },
+ {
+   "route_id": 100100423,
+   "route_name": "6016",
+   "day": 60,
+   "sat": 60,
+   "holiday": 60
+ },
+ {
+   "route_id": 100100451,
+   "route_name": "6716",
+   "day": 11,
+   "sat": 13,
+   "holiday": 14
+ },
+ {
+   "route_id": 100100500,
+   "route_name": "4312",
+   "day": 10,
+   "sat": 12,
+   "holiday": 14
+ },
+ {
+   "route_id": 100100506,
+   "route_name": "6006",
+   "day": 105,
+   "sat": 105,
+   "holiday": 105
+ },
+ {
+   "route_id": 100100507,
+   "route_name": "6009",
+   "day": 30,
+   "sat": 30,
+   "holiday": 30
+ },
+ {
+   "route_id": 100100508,
+   "route_name": "6300",
+   "day": 35,
+   "sat": 35,
+   "holiday": 35
+ },
+ {
+   "route_id": 100100509,
+   "route_name": "6020",
+   "day": 60,
+   "sat": 60,
+   "holiday": 60
+ },
+ {
+   "route_id": 100100513,
+   "route_name": "6100",
+   "day": 55,
+   "sat": 55,
+   "holiday": 55
+ },
+ {
+   "route_id": 100100533,
+   "route_name": "6017",
+   "day": 50,
+   "sat": 50,
+   "holiday": 50
+ },
+ {
+   "route_id": 100100538,
+   "route_name": "6018",
+   "day": 95,
+   "sat": 95,
+   "holiday": 95
+ },
+ {
+   "route_id": 100100549,
+   "route_name": "100",
+   "day": 10,
+   "sat": 10,
+   "holiday": 12
+ },
+ {
+   "route_id": 100100552,
+   "route_name": "7739",
+   "day": 12,
+   "sat": 16,
+   "holiday": 19
+ },
+ {
+   "route_id": 100100567,
+   "route_name": "6701",
+   "day": 30,
+   "sat": 30,
+   "holiday": 30
+ },
+ {
+   "route_id": 100100570,
+   "route_name": "6705",
+   "day": 15,
+   "sat": 15,
+   "holiday": 15
+ },
+ {
+   "route_id": 100100572,
+   "route_name": "6703",
+   "day": 50,
+   "sat": 50,
+   "holiday": 50
+ },
+ {
+   "route_id": 100100573,
+   "route_name": "6702",
+   "day": 45,
+   "sat": 45,
+   "holiday": 45
+ },
+ {
+   "route_id": 100100584,
+   "route_name": "6010",
+   "day": 70,
+   "sat": 70,
+   "holiday": 70
+ },
+ {
+   "route_id": 100100587,
+   "route_name": "705",
+   "day": 17,
+   "sat": 20,
+   "holiday": 20
+ },
+ {
+   "route_id": 100100595,
+   "route_name": "241",
+   "day": 9,
+   "sat": 11,
+   "holiday": 15
+ },
+ {
+   "route_id": 100100610,
+   "route_name": "N15",
+   "day": 20,
+   "sat": 25,
+   "holiday": 25
+ },
+ {
+   "route_id": 100100611,
+   "route_name": "2312",
+   "day": 16,
+   "sat": 19,
+   "holiday": 19
+ },
+ {
+   "route_id": 100900008,
+   "route_name": "종로02",
+   "day": 12,
+   "sat": 13,
+   "holiday": 13
+ },
+ {
+   "route_id": 100900011,
+   "route_name": "종로05",
+   "day": 11,
+   "sat": 14,
+   "holiday": 14
+ },
+ {
+   "route_id": 103000001,
+   "route_name": "8441",
+   "day": 11,
+   "sat": 11,
+   "holiday": 11
+ },
+ {
+   "route_id": 103900002,
+   "route_name": "성동08",
+   "day": 11,
+   "sat": 9,
+   "holiday": 9
+ },
+ {
+   "route_id": 103900010,
+   "route_name": "성동13",
+   "day": 21,
+   "sat": 22,
+   "holiday": 22
+ },
+ {
+   "route_id": 103900011,
+   "route_name": "성동03-1",
+   "day": 11,
+   "sat": 11,
+   "holiday": 11
+ },
+ {
+   "route_id": 103900012,
+   "route_name": "성동03-2",
+   "day": 14,
+   "sat": 16,
+   "holiday": 16
+ },
+ {
+   "route_id": 103900013,
+   "route_name": "성동14",
+   "day": 15,
+   "sat": 15,
+   "holiday": 15
+ },
+ {
+   "route_id": 104000009,
+   "route_name": "111",
+   "day": 22,
+   "sat": 26,
+   "holiday": 28
+ },
+ {
+   "route_id": 104000010,
+   "route_name": "2416",
+   "day": 16,
+   "sat": 17,
+   "holiday": 19
+ },
+ {
+   "route_id": 104000011,
+   "route_name": "N31",
+   "day": 38,
+   "sat": 38,
+   "holiday": 38
+ },
+ {
+   "route_id": 104000012,
+   "route_name": "0411",
+   "day": 14,
+   "sat": 15,
+   "holiday": 17
+ },
+ {
+   "route_id": 104900001,
+   "route_name": "광진04",
+   "day": 9,
+   "sat": 10,
+   "holiday": 10
+ },
+ {
+   "route_id": 104900002,
+   "route_name": "광진03",
+   "day": 7,
+   "sat": 8,
+   "holiday": 10
+ },
+ {
+   "route_id": 104900003,
+   "route_name": "광진02",
+   "day": 18,
+   "sat": 18,
+   "holiday": 25
+ },
+ {
+   "route_id": 104900005,
+   "route_name": "광진01",
+   "day": 12,
+   "sat": 15,
+   "holiday": 16
+ },
+ {
+   "route_id": 105900002,
+   "route_name": "동대문02",
+   "day": 11,
+   "sat": 12,
+   "holiday": 15
+ },
+ {
+   "route_id": 106000001,
+   "route_name": "8221",
+   "day": 10,
+   "sat": 10,
+   "holiday": 10
+ },
+ {
+   "route_id": 107000001,
+   "route_name": "1116",
+   "day": 18,
+   "sat": 20,
+   "holiday": 20
+ },
+ {
+   "route_id": 107000002,
+   "route_name": "343",
+   "day": 13,
+   "sat": 15,
+   "holiday": 16
+ },
+ {
+   "route_id": 107000003,
+   "route_name": "8002",
+   "day": 25,
+   "sat": 25,
+   "holiday": 25
+ },
+ {
+   "route_id": 107000004,
+   "route_name": "8003",
+   "day": 30,
+   "sat": 30,
+   "holiday": 30
+ },
+ {
+   "route_id": 107000005,
+   "route_name": "9409",
+   "day": 28,
+   "sat": 30,
+   "holiday": 30
+ },
+ {
+   "route_id": 107900012,
+   "route_name": "성북06",
+   "day": 15,
+   "sat": 20,
+   "holiday": 20
+ },
+ {
+   "route_id": 107900016,
+   "route_name": "성북14-2",
+   "day": 13,
+   "sat": 13,
+   "holiday": 13
+ },
+ {
+   "route_id": 108000001,
+   "route_name": "8551",
+   "day": 11,
+   "sat": 11,
+   "holiday": 11
+ },
+ {
+   "route_id": 108000002,
+   "route_name": "1167",
+   "day": 14,
+   "sat": 14,
+   "holiday": 16
+ },
+ {
+   "route_id": 108900002,
+   "route_name": "강북02",
+   "day": 8,
+   "sat": 9,
+   "holiday": 9
+ },
+ {
+   "route_id": 108900009,
+   "route_name": "강북10",
+   "day": 7,
+   "sat": 8,
+   "holiday": 8
+ },
+ {
+   "route_id": 108900010,
+   "route_name": "도봉02",
+   "day": 6,
+   "sat": 6,
+   "holiday": 8
+ },
+ {
+   "route_id": 108900014,
+   "route_name": "서대문15",
+   "day": 14,
+   "sat": 14,
+   "holiday": 14
+ },
+ {
+   "route_id": 109900001,
+   "route_name": "도봉01",
+   "day": 12,
+   "sat": 12,
+   "holiday": 13
+ },
+ {
+   "route_id": 109900010,
+   "route_name": "노원15",
+   "day": 11,
+   "sat": 14,
+   "holiday": 16
+ },
+ {
+   "route_id": 109900011,
+   "route_name": "노원14",
+   "day": 8,
+   "sat": 9,
+   "holiday": 11
+ },
+ {
+   "route_id": 110000002,
+   "route_name": "173",
+   "day": 11,
+   "sat": 13,
+   "holiday": 14
+ },
+ {
+   "route_id": 110000004,
+   "route_name": "8146",
+   "day": 5,
+   "sat": null,
+   "holiday": null
+ },
+ {
+   "route_id": 110000005,
+   "route_name": "8101",
+   "day": 7,
+   "sat": null,
+   "holiday": null
+ },
+ {
+   "route_id": 110900009,
+   "route_name": "노원02",
+   "day": 13,
+   "sat": 14,
+   "holiday": 14
+ },
+ {
+   "route_id": 111000008,
+   "route_name": "674",
+   "day": 17,
+   "sat": 18,
+   "holiday": 18
+ },
+ {
+   "route_id": 111000009,
+   "route_name": "8771",
+   "day": 11,
+   "sat": 11,
+   "holiday": 11
+ },
+ {
+   "route_id": 111000010,
+   "route_name": "7734",
+   "day": 10,
+   "sat": 12,
+   "holiday": 12
+ },
+ {
+   "route_id": 111000012,
+   "route_name": "774",
+   "day": 25,
+   "sat": 25,
+   "holiday": 25
+ },
+ {
+   "route_id": 111000014,
+   "route_name": "761",
+   "day": 13,
+   "sat": 15,
+   "holiday": 16
+ },
+ {
+   "route_id": 111000016,
+   "route_name": "N75",
+   "day": 30,
+   "sat": 30,
+   "holiday": 30
+ },
+ {
+   "route_id": 111000017,
+   "route_name": "N72",
+   "day": 30,
+   "sat": 30,
+   "holiday": 30
+ },
+ {
+   "route_id": 111000018,
+   "route_name": "8701",
+   "day": 10,
+   "sat": null,
+   "holiday": null
+ },
+ {
+   "route_id": 111000019,
+   "route_name": "2236",
+   "day": 11,
+   "sat": 13,
+   "holiday": 14
+ },
+ {
+   "route_id": 111900005,
+   "route_name": "은평05",
+   "day": 10,
+   "sat": 10,
+   "holiday": 9
+ },
+ {
+   "route_id": 111900006,
+   "route_name": "은평07",
+   "day": 13,
+   "sat": 13,
+   "holiday": 13
+ },
+ {
+   "route_id": 111900010,
+   "route_name": "은평10",
+   "day": 18,
+   "sat": 25,
+   "holiday": 25
+ },
+ {
+   "route_id": 111900011,
+   "route_name": "은평08-1",
+   "day": 18,
+   "sat": 18,
+   "holiday": 18
+ },
+ {
+   "route_id": 111900012,
+   "route_name": "은평08-2",
+   "day": 18,
+   "sat": 18,
+   "holiday": 18
+ },
+ {
+   "route_id": 112000003,
+   "route_name": "8773",
+   "day": 43,
+   "sat": null,
+   "holiday": null
+ },
+ {
+   "route_id": 112900002,
+   "route_name": "서대문12",
+   "day": 10,
+   "sat": 14,
+   "holiday": 14
+ },
+ {
+   "route_id": 112900006,
+   "route_name": "서대문11",
+   "day": 16,
+   "sat": 18,
+   "holiday": 18
+ },
+ {
+   "route_id": 112900011,
+   "route_name": "서대문04",
+   "day": 15,
+   "sat": 16,
+   "holiday": 16
+ },
+ {
+   "route_id": 112900014,
+   "route_name": "서대문02대",
+   "day": 11,
+   "sat": 12,
+   "holiday": 15
+ },
+ {
+   "route_id": 113000002,
+   "route_name": "452",
+   "day": 12,
+   "sat": 12,
+   "holiday": 13
+ },
+ {
+   "route_id": 113000003,
+   "route_name": "8762",
+   "day": 16,
+   "sat": null,
+   "holiday": null
+ },
+ {
+   "route_id": 113900008,
+   "route_name": "마포10",
+   "day": 6,
+   "sat": 6,
+   "holiday": 7
+ },
+ {
+   "route_id": 113900017,
+   "route_name": "마포18-1",
+   "day": 11,
+   "sat": 17,
+   "holiday": 17
+ },
+ {
+   "route_id": 114000001,
+   "route_name": "6649",
+   "day": 15,
+   "sat": 20,
+   "holiday": 20
+ },
+ {
+   "route_id": 114900002,
+   "route_name": "양천02",
+   "day": 7,
+   "sat": 7,
+   "holiday": 9
+ },
+ {
+   "route_id": 114900004,
+   "route_name": "관악11",
+   "day": 16,
+   "sat": 16,
+   "holiday": 16
+ },
+ {
+   "route_id": 114900005,
+   "route_name": "영등포13",
+   "day": 16,
+   "sat": 16,
+   "holiday": 16
+ },
+ {
+   "route_id": 114900006,
+   "route_name": "영등포12",
+   "day": 19,
+   "sat": 21,
+   "holiday": 21
+ },
+ {
+   "route_id": 115000005,
+   "route_name": "6648",
+   "day": 15,
+   "sat": 17,
+   "holiday": 18
+ },
+ {
+   "route_id": 115000006,
+   "route_name": "6019",
+   "day": 50,
+   "sat": 50,
+   "holiday": 50
+ },
+ {
+   "route_id": 115000007,
+   "route_name": "654",
+   "day": 12,
+   "sat": 14,
+   "holiday": 15
+ },
+ {
+   "route_id": 115000009,
+   "route_name": "N6002",
+   "day": 20,
+   "sat": 20,
+   "holiday": 20
+ },
+ {
+   "route_id": 115000010,
+   "route_name": "N64",
+   "day": 30,
+   "sat": 30,
+   "holiday": 30
+ },
+ {
+   "route_id": 115900001,
+   "route_name": "강서04",
+   "day": 12,
+   "sat": 16,
+   "holiday": 16
+ },
+ {
+   "route_id": 115900006,
+   "route_name": "강서01",
+   "day": 11,
+   "sat": 13,
+   "holiday": 13
+ },
+ {
+   "route_id": 115900007,
+   "route_name": "강서07",
+   "day": 31,
+   "sat": 31,
+   "holiday": 31
+ },
+ {
+   "route_id": 115900008,
+   "route_name": "강서05-1",
+   "day": 23,
+   "sat": 23,
+   "holiday": 23
+ },
+ {
+   "route_id": 116000001,
+   "route_name": "8552",
+   "day": 10,
+   "sat": 10,
+   "holiday": 10
+ },
+ {
+   "route_id": 116000002,
+   "route_name": "6615",
+   "day": 18,
+   "sat": 20,
+   "holiday": 20
+ },
+ {
+   "route_id": 116000004,
+   "route_name": "660",
+   "day": 15,
+   "sat": 17,
+   "holiday": 19
+ },
+ {
+   "route_id": 116000005,
+   "route_name": "8561",
+   "day": 11,
+   "sat": null,
+   "holiday": null
+ },
+ {
+   "route_id": 116900006,
+   "route_name": "구로07",
+   "day": 17,
+   "sat": 20,
+   "holiday": 23
+ },
+ {
+   "route_id": 116900007,
+   "route_name": "구로09",
+   "day": 12,
+   "sat": 13,
+   "holiday": 13
+ },
+ {
+   "route_id": 116900015,
+   "route_name": "구로08",
+   "day": 13,
+   "sat": 16,
+   "holiday": 16
+ },
+ {
+   "route_id": 116900018,
+   "route_name": "양천04",
+   "day": 10,
+   "sat": 11,
+   "holiday": 13
+ },
+ {
+   "route_id": 117000002,
+   "route_name": "N51",
+   "day": 30,
+   "sat": 30,
+   "holiday": 30
+ },
+ {
+   "route_id": 117900001,
+   "route_name": "금천05",
+   "day": 11,
+   "sat": 23,
+   "holiday": 23
+ },
+ {
+   "route_id": 117900004,
+   "route_name": "금천06",
+   "day": 14,
+   "sat": 17,
+   "holiday": 17
+ },
+ {
+   "route_id": 118900008,
+   "route_name": "영등포10",
+   "day": 15,
+   "sat": 20,
+   "holiday": 20
+ },
+ {
+   "route_id": 119900003,
+   "route_name": "서초05",
+   "day": 20,
+   "sat": 20,
+   "holiday": 20
+ },
+ {
+   "route_id": 119900005,
+   "route_name": "서초16",
+   "day": 15,
+   "sat": 17,
+   "holiday": 21
+ },
+ {
+   "route_id": 119900021,
+   "route_name": "동작12",
+   "day": 15,
+   "sat": 15,
+   "holiday": 16
+ },
+ {
+   "route_id": 119900022,
+   "route_name": "동작05",
+   "day": 16,
+   "sat": 19,
+   "holiday": 19
+ },
+ {
+   "route_id": 120900005,
+   "route_name": "관악01",
+   "day": 7,
+   "sat": 7,
+   "holiday": 8
+ },
+ {
+   "route_id": 121900001,
+   "route_name": "서초21",
+   "day": 10,
+   "sat": 12,
+   "holiday": 14
+ },
+ {
+   "route_id": 121900002,
+   "route_name": "서초08",
+   "day": 14,
+   "sat": 20,
+   "holiday": 25
+ },
+ {
+   "route_id": 121900003,
+   "route_name": "서초10",
+   "day": 13,
+   "sat": 14,
+   "holiday": 16
+ },
+ {
+   "route_id": 121900016,
+   "route_name": "서초18",
+   "day": 5,
+   "sat": 6,
+   "holiday": 9
+ },
+ {
+   "route_id": 122000001,
+   "route_name": "4435",
+   "day": 15,
+   "sat": 16,
+   "holiday": 16
+ },
+ {
+   "route_id": 122000002,
+   "route_name": "6102",
+   "day": 50,
+   "sat": 50,
+   "holiday": 50
+ },
+ {
+   "route_id": 122000009,
+   "route_name": "6105",
+   "day": 55,
+   "sat": 55,
+   "holiday": 55
+ },
+ {
+   "route_id": 122900002,
+   "route_name": "강남05",
+   "day": 11,
+   "sat": 13,
+   "holiday": 14
+ },
+ {
+   "route_id": 122900005,
+   "route_name": "강남06",
+   "day": 11,
+   "sat": 13,
+   "holiday": 15
+ },
+ {
+   "route_id": 122900010,
+   "route_name": "강남06-2",
+   "day": 20,
+   "sat": 21,
+   "holiday": 23
+ },
+ {
+   "route_id": 123000010,
+   "route_name": "741",
+   "day": 10,
+   "sat": 11,
+   "holiday": 14
+ },
+ {
+   "route_id": 123000011,
+   "route_name": "708",
+   "day": 12,
+   "sat": 14,
+   "holiday": 17
+ },
+ {
+   "route_id": 123000013,
+   "route_name": "N73",
+   "day": 35,
+   "sat": 35,
+   "holiday": 35
+ },
+ {
+   "route_id": 123900001,
+   "route_name": "송파01",
+   "day": 17,
+   "sat": 23,
+   "holiday": 23
+ },
+ {
+   "route_id": 123900002,
+   "route_name": "송파02",
+   "day": 21,
+   "sat": 23,
+   "holiday": 23
+ },
+ {
+   "route_id": 123900003,
+   "route_name": "송파03",
+   "day": 18,
+   "sat": 25,
+   "holiday": 25
+ },
+ {
+   "route_id": 124000006,
+   "route_name": "6200",
+   "day": 120,
+   "sat": 120,
+   "holiday": 120
+ },
+ {
+   "route_id": 124000013,
+   "route_name": "6103",
+   "day": 35,
+   "sat": 35,
+   "holiday": 35
+ },
+ {
+   "route_id": 100100417,
+   "route_name": "N6001",
+   "day": 20,
+   "sat": 20,
+   "holiday": 20
+ },
+ {
+   "route_id": 124000038,
+   "route_name": "342",
+   "day": 11,
+   "sat": 12,
+   "holiday": 14
+ },
+ {
+   "route_id": 124000039,
+   "route_name": "3323",
+   "day": 15,
+   "sat": 20,
+   "holiday": 20
+ },
+ {
+   "route_id": 124900001,
+   "route_name": "강동05",
+   "day": 12,
+   "sat": 14,
+   "holiday": 14
+ },
+ {
+   "route_id": 124900002,
+   "route_name": "강동01",
+   "day": 9,
+   "sat": 11,
+   "holiday": 13
+ },
+ {
+   "route_id": 124900003,
+   "route_name": "강동02",
+   "day": 16,
+   "sat": 19,
+   "holiday": 19
+ }
+]
